@@ -1,0 +1,40 @@
+{
+  "business": {
+    "name": "A.B.H Dienstleistungen",
+    "tagline": "Ihr vielseitiger Helfer für Haus, Garten und Immobilie",
+    "claimShort": "Packen wir's an – gemeinsam finden wir eine Lösung!",
+    "phone": "01575 7191403",
+    "phoneHref": "4915757191403",
+    "email": "abhdienstleistungen@gmail.com",
+    "area": {
+      "place": "86946 Vilgertshofen OT Pflugdorf",
+      "region": "Landkreis Landsberg am Lech und Umgebung"
+    },
+    "values": ["Zuverlässig", "Pünktlich", "Flexibel", "Faire Preise", "Freundlich & unkompliziert"]
+  },
+  "services": [
+    { "id": "immobilienpflege", "title": "Immobilienpflege", "text": "Rundum-Betreuung für Ihre Immobilie – innen wie außen, damit alles in Schuss bleibt.", "icon": "house" },
+    { "id": "garten", "title": "Gartenarbeiten & Rasenpflege", "text": "Rasenschnitt, Beetpflege und alles, was Ihr Garten regelmäßig braucht.", "icon": "mower" },
+    { "id": "gruenanlagen", "title": "Grünanlagenpflege & Baumschnitt", "text": "Hecken, Sträucher und Bäume fachgerecht geschnitten und in Form gehalten.", "icon": "tree" },
+    { "id": "entsorgung", "title": "Entsorgungs- & Räumungshilfen", "text": "Wir räumen zuverlässig auf und kümmern uns um die passende Entsorgung.", "icon": "bin" },
+    { "id": "hausmeister", "title": "Hausmeisterarbeiten & Reparaturen", "text": "Kleine und größere Reparaturen rund ums Haus – schnell erledigt.", "icon": "wrench" },
+    { "id": "umzug", "title": "Montage- & Umzugshilfen", "text": "Möbelmontage und Umzugshilfe, damit bei Ihnen alles reibungslos läuft.", "icon": "box" },
+    { "id": "abriss", "title": "Abriss-, Demontage- & Entkernungshilfen", "text": "Wir unterstützen tatkräftig bei Abriss-, Demontage- und Entkernungsarbeiten.", "icon": "hammer" },
+    { "id": "bewaesserung", "title": "Bewässerungs- & Pflegehilfen", "text": "Damit Pflanzen und Grünflächen auch in trockenen Zeiten gut versorgt sind.", "icon": "drop" },
+    { "id": "mehr", "title": "Und vieles mehr", "text": "Ihr Anliegen ist nicht dabei? Fragen Sie uns einfach – wir finden eine Lösung.", "icon": "plus" }
+  ],
+  "reviews": [
+    {
+      "author": "Patrick Jolley",
+      "rating": 5,
+      "timeAgo": "vor einem Monat",
+      "text": "Freundlich, fleißig und unkompliziert: kurzfristig zu einem Noteinsatz gekommen und die Sache mit viel Erfahrung schnell und stressfrei erledigt."
+    },
+    {
+      "author": "Gerd Rheiner",
+      "rating": 5,
+      "timeAgo": "vor einem Monat",
+      "text": "Zuverlässig, flexibel, hilfsbereit und immer pünktlich vor Ort – die Zusammenarbeit lohnt sich, klare Empfehlung."
+    }
+  ]
+}
